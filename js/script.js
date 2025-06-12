@@ -1,5 +1,5 @@
 // WhatsApp Number
-const whatsappNumber = "919876543210";
+const whatsappNumber = "918279617556";
 
 // Products Array
 const products = [
